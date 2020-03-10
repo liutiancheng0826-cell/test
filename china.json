@@ -1,6 +1,7 @@
 ﻿{
-"Access-Control-Allow-Origin": "*", 
-
+"Access-Control-Allow-Origin": "*",
+} 
+{
 "type": "FeatureCollection",
                                                                                 
 "features": [
